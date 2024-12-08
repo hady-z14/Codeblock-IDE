@@ -11,7 +11,7 @@ This repository ("`VSCode`") is where we (Codeblock) develop the [Codeblock IDE]
 ## Codeblock IDE
 
 <p align="center">
-  <img alt="Codeblock IDE in action" src="[[https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png](https://github.com/hady-z14/Codeblock-IDE/blob/main/Appppp.png)](https://github.com/hady-z14/Codeblock-IDE/blob/main/Appppp.png?raw=true)](https://github.com/hady-z14/Codeblock-IDE/blob/main/Appppp.png?raw=true)](https://github.com/hady-z14/Codeblock-IDE/blob/main/Appppp.png?raw=true)">
+  <img alt="Codeblock IDE in action" src="[https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png](https://github.com/hady-z14/Codeblock-IDE/blob/main/Appppp.png)]">
 </p>
 
 [Codeblock IDE](https://code.visualstudio.com) is a distribution of the `VSCode` repository with Codeblock-specific customizations released under a traditional [Microsoft product license](https://code.visualstudio.com/License/).
