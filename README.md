@@ -24,8 +24,7 @@ please see the document [How to Contribute](https://github.com/microsoft/vscode/
 
 ## Feedback
 
-*If You Want any help, compose a mail to [Codeblock Mail](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwCngpwdnVbJcGnMbDHlVPWrTfdWbKTRStCPDxhldghZzNCnkPnBcnjfrmZfgDkHMgQZtC)
-
+*If You Want any help, compose a mail to Codeblock mail `hadyz.pc14@gmail.com`
 ## Bundled Extensions
 Codeblock IDE includes a set of built-in extensions located in the [extensions](extensions) folder, including grammars and snippets for many languages. Extensions that provide rich language support (code completion, Go to Definition) for a language have the suffix `language-features`. For example, the `json` extension provides coloring for `JSON` and the `json-language-features` extension provides rich language support for `JSON`.
 
