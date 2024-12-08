@@ -13,17 +13,6 @@ This source code is available to everyone under the standard [MIT license](https
 
 Codeblock IDE is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Codeblock IDE Releases](https://github.com/hady-z14/Codeblock-IDE/releases/new).
 
-## Contributing
-If you are interested in fixing issues and contributing directly to the code base,
-please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
-
-* [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
-* [The development workflow, including debugging and running tests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
-* [Coding guidelines](https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
-* [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
-* [Finding an issue to work on](https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
-* [Contributing to translations](https://aka.ms/vscodeloc)
-
 ## Feedback
 
 *If You Want any help, compose a mail to Codeblock mail `hadyz.pc14@gmail.com`
