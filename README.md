@@ -3,6 +3,7 @@
 ## The Repository
 
 This repository is where Codeblock develop the Codeblock IDE
+
 This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
 
 ## Codeblock IDE
