@@ -2,7 +2,7 @@
 
 ## The Repository
 
-This repository ("`VSCode`") is where we (Codeblock) develop the [Codeblock IDE](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans), and our [endgame plans](https://github.com/microsoft/vscode/wiki/Running-the-Endgame). This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+This repository is where Codeblock develop the [Codeblock IDE](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans), and our [endgame plans](https://github.com/microsoft/vscode/wiki/Running-the-Endgame). This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
 
 ## Codeblock IDE
 [Codeblock IDE](https://code.visualstudio.com) is a distribution of the `VSCode` repository with Codeblock-specific customizations released under a traditional [Microsoft product license](https://code.visualstudio.com/License/).
