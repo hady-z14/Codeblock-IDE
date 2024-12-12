@@ -1,4 +1,4 @@
-# Codeblock IDE - Open Source ("VSCode")
+# Codeblock IDE - Open Source Ver. of VSCode by The Codeblock Team
 
 ## The Repository
 
