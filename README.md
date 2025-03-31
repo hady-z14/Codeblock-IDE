@@ -15,7 +15,7 @@ Codeblock IDE is updated monthly with new features and bug fixes. You can downlo
 
 ## Feedback
 
-*If You Want any help, compose a telegram message to Codeblock channel `[Telegram](https://t.me/+7UIMimMknos1MmJk)`
+*If You Want any help, compose a telegram message to Codeblock channel [Telegram](https://t.me/+7UIMimMknos1MmJk)
 ## Bundled Extensions
 Codeblock IDE includes built-in extensions in the [extensions](extensions) folder, including grammars and snippets for many languages. Extensions that provide rich language support (code completion, Go to Definition) for a language have the suffix `language-features`. For example, the `json` extension provides coloring for `JSON` and the `json-language-features` extension provides rich language support for `JSON`.
 
