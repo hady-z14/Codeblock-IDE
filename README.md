@@ -15,7 +15,8 @@ Codeblock IDE is updated monthly with new features and bug fixes. You can downlo
 
 ## Feedback
 
-*If You Want any help, compose a telegram message to The Codeblock channel [Telegram](https://t.me/+7UIMimMknos1MmJk)
+*If You Want any help, compose a telegram message to the Codeblock channel [Telegram](https://t.me/+7UIMimMknos1MmJk)
+Or tell us ideas on the Codeblock ideas channel [Telegram](https://t.me/+scMZsqWGiUwzNDRk)
 ## Bundled Extensions
 Codeblock IDE includes built-in extensions in the [extensions](extensions) folder, including grammars and snippets for many languages. Extensions that provide rich language support (code completion, Go to Definition) for a language have the suffix `language-features`. For example, the `json` extension provides coloring for `JSON` and the `json-language-features` extension provides rich language support for `JSON`.
 
@@ -28,7 +29,7 @@ This repository includes a Visual Studio Code Dev Containers / GitHub Codespaces
 
 * For Codespaces, install the [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) extension in Codeblock IDE, and use the **Codespaces: Create New Codespace** command.
 
-Docker / the Codespace should have at least **4 Cores and 6 GB of RAM (8 GB recommended)** to run a full build. See the [development container README](.devcontainer/README.md) for more information.
+Docker / the Codespace should have at least **4 Cores and 6 GB of RAM (8 GB recommended)** to run a full build. Please take a look at the [development container README](.devcontainer/README.md) for more information.
 
 ## Code of Conduct
 By The Codeblock Team
