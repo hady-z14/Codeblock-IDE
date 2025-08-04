@@ -11,7 +11,6 @@ This source code is available to everyone under the standard [MIT license](https
 
 [Codeblock IDE](https://code.visualstudio.com) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
 
-Codeblock IDE is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Codeblock IDE Releases](https://github.com/hady-z14/Codeblock-IDE/releases/new).
 
 ## Feedback
 
